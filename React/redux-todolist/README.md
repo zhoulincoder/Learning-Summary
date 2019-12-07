@@ -1,8 +1,7 @@
 ## 写在前面
 
 "待办事项列表"这个例子是redux文档推荐的，但是对于新人来说，官方文档和网上博客的相关解释都不是很好，没有思路分析到代码实现整个个过程，这令我在学习的时候非常头疼。看着不分文件、不梳理数据流向、不解释代码思路的各种文章，我决定自己写一篇redux入门实例——简单的待办事项列表。</br>
-[github](https://github.com/HenleyZ/Learn_Front-end/tree/master/react/redux-todolist)
-
+[github](https://github.com/HenleyZ/Learning-Summary/tree/master/React/redux-todolist)
 ## 效果展示
 
 ![](https://user-gold-cdn.xitu.io/2019/7/7/16bcca8b36bef205?w=307&h=245&f=gif&s=776418)
